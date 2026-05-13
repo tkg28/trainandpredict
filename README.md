@@ -1,0 +1,2 @@
+# trainandpredict
+marge two function
